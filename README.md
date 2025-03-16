@@ -1,4 +1,4 @@
-### Olá, Mundo! 👋 Sou o Nekyl
+### Olá, Mundo!
 
 
 ![Estatísticas do GitHub do Nekyl](https://github-readme-stats.vercel.app/api?username=nekyl&show_icons=true&theme=radical&locale=pt-br)

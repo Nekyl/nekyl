@@ -37,7 +37,7 @@ Estou sempre aberto a trocar ideias ou colaborar em projetos criativos. Me chama
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nekyl.truth827@slmails.com)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/nekyll)
-<a href="tox:475FAAA0F0B489535A57C56893E4FBFB786AEC99ADC188CD48156925FDB30745A47CC1A86CD5">
+<a href="https://ibb.co/ZRNCYpVd"><img
   <img src="https://i.ibb.co/Y7H4GWTH/qTox.png" alt="qTox" border="0" width="82" style="position: relative; top: 2px;">
 </a>
 

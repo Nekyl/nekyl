@@ -33,7 +33,7 @@ Essas são as tecnologias que já fazem parte do meu dia a dia ou projetos recen
 
 ### 🌐 Conecte-se Comigo
 
-Estou sempre aberto a trocar ideias ou colaborar em projetos criativos. Me chama quando quiser:
+Se quiser ou precisar entrar em contato comigo, é só chamar:
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nekyl.truth827@slmails.com)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/nekyll)

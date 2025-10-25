@@ -4,20 +4,24 @@
 
 ### 🛠️ Tecnologias e Ferramentas
 
-Essas são as tecnologias que já fazem parte do meu dia a dia ou projetos recentes:
+<div align="center" style="margin-top:20px;">
+  <img src="https://skillicons.dev/icons?i=python" height="60" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=flask" height="60" alt="flask logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="60" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=sqlite" height="60" alt="sqlite logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=linux" height="60" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Termux-black?style=flat-square&logo=linux&logoColor=white" height="60" alt="termux logo"  />
+</div>
 
-<p align="left">
-  <a href="https://www.python.org" target="_blank"> <img src="https://skillicons.dev/icons?i=python" alt="python" width="40" height="40"/> </a>
-  <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://skillicons.dev/icons?i=flask" alt="flask" width="40" height="40"/> </a>
-  <a href="https://www.javascript.com" target="_blank"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a>
-  <a href="https://sqlite.org/index.html" target="_blank"> <img src="https://skillicons.dev/icons?i=sqlite" alt="sqlite" width="40" height="40"/> </a>
-  <a href="https://www.linux.org/" target="_blank"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a>
-  <a href="https://termux.dev" target="_blank"> <img src="https://img.shields.io/badge/Termux-black?style=flat-square&logo=linux&logoColor=white" alt="termux" height="40"/> </a>
-</p>
+###
 
----
 
-### 📊 Minhas Estatísticas no GitHub
+### 📊 Estatísticas no GitHub
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nekyl&show_icons=true&theme=radical&locale=pt-br&hide_title=true&bg_color=00000000" alt="Estatísticas do GitHub do Nekyl"/>

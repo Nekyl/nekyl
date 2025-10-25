@@ -1,6 +1,26 @@
-### Olá, Mundo!
+<div align="center">
+  <img height="150" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
+</div>
 
----
+###
+
+<div align="center">
+  <a href="mailto:nekyl.truth827@slmails.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="25" alt="Email logo" /></a>
+  <a href="https://t.me/nekyll"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height="25" alt="Telegram logo" /></a>
+  <a href="https://ibb.co/DHFjgQSC"><img src="https://i.ibb.co/Y7H4GWTH/qTox.png" height="25" alt="qTox logo" /></a>
+</div>
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
+</div>
+
+###
+
+<h1 align="center">
+  Olá, Mundo!
+</h1>
 
 ### 🛠️ Tecnologias e Ferramentas
 
@@ -21,30 +41,14 @@
 ###
 
 
-### 📊 Estatísticas no GitHub
+### 📊 Minhas Estatísticas
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nekyl&show_icons=true&theme=radical&locale=pt-br&hide_title=true&bg_color=00000000" alt="Estatísticas do GitHub do Nekyl"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nekyl&layout=compact&theme=tokyonight&locale=pt-br&hide_title=true&bg_color=00000000" alt="Linguagens Mais Usadas"/>
-</p>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Nekyl&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  
+</div>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nekyl&theme=radical&no-frame=true&no-bg=true" alt="Troféus do GitHub do Nekyl"/>
-</p>
-
----
-
-
-### 🌐 Conecte-se Comigo
-
-Se quiser ou precisar entrar em contato comigo, é só chamar:
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nekyl.truth827@slmails.com)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/nekyll)
-<a href="https://ibb.co/DHFjgQSC">
-  <img src="https://i.ibb.co/Y7H4GWTH/qTox.png" alt="qTox" border="0" width="82" style="position: relative; top: 2px;">
-</a>
-
+###
 
 <picture>
   <source
@@ -52,6 +56,8 @@ Se quiser ou precisar entrar em contato comigo, é só chamar:
     media="(prefers-color-scheme: dark)"
   />
 </picture>
+
+###
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nekyl/Nekyl/output/pacman-contribution-graph-dark.svg">

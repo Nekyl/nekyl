@@ -9,6 +9,9 @@
   <a href="https://t.me/nekyll"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height="25" alt="Telegram logo" /></a>
   <a href="https://ibb.co/DHFjgQSC"><img src="https://i.ibb.co/Y7H4GWTH/qTox.png" height="25" alt="qTox logo" /></a>
   <a href="https://dev.to/nekyl"><img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  /></a>
+  <a href="https://discord.com/users/679795424944848985">
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" height="25" alt="Discord logo" />
+</a>
 </div>
 
 ###

@@ -46,7 +46,15 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=linux" height="60" alt="linux logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=java" height="60" alt="java logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=kotlin" height="60" alt="kotlin logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="60" alt="github logo"  />
+<img width="12" />
   <img src="https://img.shields.io/badge/Termux-black?style=flat-square&logo=linux&logoColor=white" height="60" alt="termux logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Smali-black?style=flat-square&logo=android&logoColor=lime" height="60" alt="smali logo"  />
 </div>
 
 ###

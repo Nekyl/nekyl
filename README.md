@@ -12,7 +12,8 @@
   <a href="https://discord.com/users/679795424944848985">
   <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" height="25" alt="Discord logo" />
   </a>
-  <!-- Novos Links de Donate Abaixo -->
+
+  
   <a href="https://buymeacoffee.com/nekyll"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buymeacoffee&logoColor=black" height="25" alt="Buy Me A Coffee" /></a>
   <a href="https://livepix.gg/nekyll"><img src="https://img.shields.io/badge/LivePix-00b4d8?style=for-the-badge&logo=pix&logoColor=white" height="25" alt="LivePix" /></a>
 </div>

@@ -26,7 +26,7 @@
 
 ###
 
-<h1 align="center">Olá, sou o Nekyll 👋</h1>
+<h1 align="center">Olá, sou o Nekyl (Mateus) 👋</h1>
 
 <p align="center">
   Bem-vindo ao meu pequeno caos organizado. Sinta-se à vontade para olhar.<br>

@@ -2,7 +2,7 @@
 <html lang="pt-BR">
 <head>
 <meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, viewport-fit=cover">
 <title>nekyl — cybersec</title>
 <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>▣</text></svg>">
 <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:ital,wght@0,300;0,400;0,600;0,700;1,400&family=Share+Tech+Mono&display=swap" rel="stylesheet">
@@ -835,6 +835,8 @@
 
   @media (max-width: 640px) {
     #egg-terminal { max-height: 50vh; padding: 8px 10px; }
+    #egg-term-input { font-size: 16px !important; }
+    #egg-term-content { font-size: 14px; }
     #ssh-box { padding: 20px; width: 90%; max-width: 420px; margin: 0 auto; }
     #egg-toast { left: 5% !important; right: auto; width: 90% !important; max-width: 90vw !important; transform: translateX(0) translateY(-50%) scale(0.8) !important; }
     #egg-toast.show { transform: translateX(0) translateY(-50%) scale(1) !important; }
@@ -950,7 +952,7 @@
       <div class="category-label">// web apps — live demos</div>
       <div class="project-grid">
 
-        <a class="project-card" data-external="true" href="https://nekyl.github.io/Chat2B/" target="_blank" rel="noopener">
+        <a class="project-card" data-external="true" href="https://github.com/Nekyl/Chat2B" target="_blank" rel="noopener">
           <div>
             <div class="project-name">Chat2B</div>
             <div class="project-desc">Interface de chat 100% client-side. Suporta Gemini, OpenAI, Groq, xAI, Ollama e endpoints custom. Zero backend — privacidade total.</div>
@@ -963,7 +965,7 @@
           <span class="project-arrow">↗</span>
         </a>
 
-        <a class="project-card" data-external="true" href="https://nekyl.github.io/GeNekyl/" target="_blank" rel="noopener">
+        <a class="project-card" data-external="true" href="https://github.com/Nekyl/GeNekyl" target="_blank" rel="noopener">
           <div>
             <div class="project-name">GeNekyl</div>
             <div class="project-desc">Gerador de senhas e credenciais criptográficas 100% offline. PBKDF2, métricas de força em bits, temporizador de ocultação.</div>
@@ -1454,6 +1456,16 @@ como funcionam — nunca sem um cafezinho ☕️`;
     function closeTerm() {
       termOpen = false;
       termOverlay.classList.remove('open');
+    }
+
+    // iOS: adjust terminal when keyboard opens
+    if (window.visualViewport) {
+      window.visualViewport.addEventListener('resize', () => {
+        if (!termOpen) return;
+        const vh = window.visualViewport.height;
+        termOverlay.style.maxHeight = Math.min(vh * 0.55, window.innerHeight * 0.55) + 'px';
+        scrollTermToBottom();
+      });
     }
 
     function scrollTermToBottom() {

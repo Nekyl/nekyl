@@ -9,7 +9,7 @@
 │                                      │
 │   Nekyl (Mateus) • Cybersecurity     │
 │                                      │
-│   $ portifólio                       │
+│   $ portifolio                       │
 │                                      │
 │   ► https://nekyl.github.io/nekyl/   │
 │                                      │

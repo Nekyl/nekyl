@@ -7,8 +7,7 @@
 │                                      │
 │   $ whoami                           │
 │                                      │
-│   Nekyl (Mateus)                     │
-│   Cybersecurity • Rede Inf. Social   │
+│   Nekyl (Mateus) • Cybersecurity     │
 │                                      │
 │   ► https://nekyl.github.io/nekyl/   │
 │                                      │

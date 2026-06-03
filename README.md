@@ -39,7 +39,7 @@
 
 ### <code>$ cat about.txt</code>
 
-> Profissional de segurança cibernética. Construo ferramentas CLI, interfaces web e experimento com automação — tudo no terminal.  
+> Estudante de segurança cibernética. Construo ferramentas CLI, interfaces web e experimento com automação — tudo no terminal.  
 > Apaixonado por redes e cyber. Gosto de desmontar as coisas pra entender como funcionam — e claro, nunca sem um bom cafezinho •-•)☕️
 
 ###

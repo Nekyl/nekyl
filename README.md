@@ -55,7 +55,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=sqlite" height="50" alt="sqlite" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=linux" height="50" alt="linux" />
+  <img src="https://skillicons.dev/icons?i=linux" height="50" alt="arch" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=github" height="50" alt="github" />
   <img width="12" />
